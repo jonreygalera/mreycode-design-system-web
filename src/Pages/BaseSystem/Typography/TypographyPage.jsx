@@ -9,7 +9,7 @@ import PageLayout from '../../../Layouts/PageLayout';
 const TypographyPage = () => {
   return (
     <PageLayout title='Typography'>
-      <Typography>Working in progress!</Typography>
+      <Typography>Work-in-Progress</Typography>
       <div>
         {
           Object.entries(typpographyVariants).map(([typographyValue], index) => (
