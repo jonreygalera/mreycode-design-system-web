@@ -1,5 +1,5 @@
 import React from 'react'
-import { Typography }  from '@mreycode/system';
+import { Typography }  from '@mreycode/system-ui';
 
 const styles = {
   root: {

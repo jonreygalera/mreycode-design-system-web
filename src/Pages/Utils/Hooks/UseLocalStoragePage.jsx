@@ -1,6 +1,6 @@
 
 import PageLayout from '../../../Layouts/PageLayout';
-import { Typography }  from '@mreycode/system';
+import { Typography }  from '@mreycode/system-ui';
 import React from 'react'
 import { useLocalStorage } from '@mreycode/utils';
 
